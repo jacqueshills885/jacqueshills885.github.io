@@ -3,10 +3,10 @@
 @import "font-awesome.css";
 @import "superfish.css";
 
-@import url(https:/fonts.googleapis.com/css?family=Open+Sans:400);
-@import url(https:/fonts.googleapis.com/css?family=Open+Sans:300);
-@import url(https:/fonts.googleapis.com/css?family=Open+Sans:600);
-@import url(https:/fonts.googleapis.com/css?family=Dorsa);
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400);
+@import url(//fonts.googleapis.com/css?family=Open+Sans:300);
+@import url(//fonts.googleapis.com/css?family=Open+Sans:600);
+@import url(//fonts.googleapis.com/css?family=Dorsa);
 
 html {
 	width: 100%;
